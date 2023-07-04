@@ -10,7 +10,7 @@ I like to learn new technologies and contribute to the work. Recently enjoying p
 
 I am currently working on something cool. :shipit:
 
-Currently learning Java and Sql. 📖
+I have experience working with Java and SQL queries. 📖
 
 
 
