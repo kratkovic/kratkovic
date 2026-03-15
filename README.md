@@ -6,7 +6,7 @@ _**About Me**_: 🧐
 I am a video/audio producer, Slavonski Brod, Croatia.
 Working as lead TV editor at **SBTV**. 🎥
 
-I like to learn new technologies and contribute to the work. Recently enjoying problem solving as well.
+I like to learn new technologies and contribute to the work.
 
 I am currently working on something cool. :shipit:
 
